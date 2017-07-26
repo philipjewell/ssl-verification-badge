@@ -1,0 +1,7 @@
+
+{
+  "name": "ssl-verification-badge",
+  "version": "1.0",
+  "main": "Gruntfile.js",
+  "author": "Philip Jewell",
+}

@@ -1,0 +1,32 @@
+a {
+    all: unset;
+}
+.certred {
+    background: #C4433F;
+    color: #fff;
+}
+.certred a:hover {
+    cursor:pointer;
+}
+.certgreen {
+    background: #fff;
+    color: #297F46;
+    border-top: solid 3px #297F46;
+}
+.certgreen a:hover {
+    cursor:pointer;
+}
+.certyellow {
+    background: #EB6126;
+    color: #fff;
+}
+.certred, .certgreen, .certyellow {
+    padding: 8px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+    z-index: 9999999999999999;
+}
+.certred img, .certgreen img, .certyellow img {
+    margin-right: 4px;
+}
